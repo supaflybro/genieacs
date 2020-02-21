@@ -16,7 +16,7 @@ to MongoDB's documentation for details.
 
 .. warning::
 
-  A common pitfll is not properly percent-encoding special characters in the
+  A common pitfall is not properly percent-encoding special characters in the
   device ID or query in the URL.
 
 Endpoints
